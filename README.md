@@ -2,7 +2,7 @@
 
 ## Goal
 To create a webpage to showcase my portfolio using technologies like **HTML** and **CSS**.  
-The project features a responsive layout for both mobile and desktop devices. It also includes links to my contact information and project link.
+The project features a responsive layout for both mobile and desktop devices. It also includes links to my contact information and projects link.
 
 ## Technologies Used
 - HTML5  
