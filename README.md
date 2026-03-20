@@ -1,21 +1,24 @@
-# Portfolio <br>
-**Goal**
-To create a webpage to show your portfolio using tech stack like HTML and CSS . <br>
-Project has responsive layout for mobile and desktop.It includes link for my contacts and project details. <br>
+# 🌐 Portfolio Website
 
-Technologies Used
-HTML5
-CSS3
+## 🎯 Goal
+To create a webpage to showcase my portfolio using technologies like **HTML** and **CSS**.  
+The project features a responsive layout for both mobile and desktop devices. It also includes links to my contact information and project details.
 
-Project Structure
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+
+## 📂 Project Structure
 Portfolio/
 │── index.html
 │── style.css
 │── bgproject.png
 
-How to Run the Project:
-1. Download or clone the repository
-2. Open the project folder
-3. Double-click on index.html or open it in your browser
 
-Author - Yaksh Chauhan
+## 🚀 How to Run the Project
+1. Download or clone the repository  
+2. Open the project folder  
+3. Double-click on `index.html` or open it in your browser  
+
+## 👨‍💻 Author
+**Yaksh Chauhan**
