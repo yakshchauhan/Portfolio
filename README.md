@@ -9,8 +9,8 @@ The project features a responsive layout for both mobile and desktop devices. It
 - CSS3  
 
 ## Project Structure
-Portfolio/
 
+Portfolio/
 │── index.html
 │── style.css
 │── bgproject.png
