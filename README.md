@@ -10,10 +10,10 @@ The project features a responsive layout for both mobile and desktop devices. It
 
 ## Project Structure
 Portfolio/
+
 │── index.html
 │── style.css
 │── bgproject.png
-
 
 ## How to Run the Project
 1. Download or clone the repository  
