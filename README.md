@@ -1,10 +1,10 @@
-# 🌐 Portfolio Website
+# Portfolio Website
 
-## 🎯 Goal
+## Goal
 To create a webpage to showcase my portfolio using technologies like **HTML** and **CSS**.  
 The project features a responsive layout for both mobile and desktop devices. It also includes links to my contact information and project details.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML5  
 - CSS3  
 
